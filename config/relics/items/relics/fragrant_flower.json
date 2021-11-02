@@ -1,0 +1,23 @@
+{
+  "config": {
+    "luringRadius": 16,
+    "damageMultiplier": 3.0,
+    "healingMultiplier": 0.5
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/jungle_temple"
+      ],
+      "chance": 0.2
+    }
+  ]
+}

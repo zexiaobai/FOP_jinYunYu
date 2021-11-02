@@ -1,0 +1,21 @@
+{
+  "config": {
+    "speedModifier": 0.05
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:gameplay/fishing"
+      ],
+      "chance": 0.1
+    }
+  ]
+}

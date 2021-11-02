@@ -1,0 +1,193 @@
+{
+  "risingtides:snail": [
+    {
+      "weight": 12,
+      "minCount": 3,
+      "maxCount": 5,
+      "biomes": [
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:swamp",
+        "minecraft:swamp_hills",
+        "minecraft:forest",
+        "minecraft:birch_forest",
+        "minecraft:flower_forest",
+        "minecraft:river"
+      ]
+    },
+    {
+      "weight": 15,
+      "minCount": 4,
+      "maxCount": 6,
+      "biomes": [
+        "minecraft:mushroom_fields"
+      ]
+    }
+  ],
+  "risingtides:penguin": [
+    {
+      "weight": 12,
+      "minCount": 3,
+      "maxCount": 6,
+      "biomes": [
+        "minecraft:snowy_tundra",
+        "minecraft:snowy_mountains",
+        "minecraft:snowy_beach"
+      ]
+    },
+    {
+      "weight": 15,
+      "minCount": 3,
+      "maxCount": 6,
+      "biomes": [
+        "minecraft:snowy_taiga",
+        "minecraft:snowy_taiga_hills",
+        "minecraft:snowy_taiga_mountains"
+      ]
+    }
+  ],
+  "risingtides:walrus": [
+    {
+      "weight": 10,
+      "minCount": 5,
+      "maxCount": 5,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_lukewarm_ocean",
+        "minecraft:beach",
+        "minecraft:snowy_beach"
+      ]
+    }
+  ],
+  "risingtides:jellyfish": [
+    {
+      "weight": 12,
+      "minCount": 3,
+      "maxCount": 5,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:deep_warm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_lukewarm_ocean"
+      ]
+    }
+  ],
+  "risingtides:shark": [
+    {
+      "weight": 13,
+      "minCount": 3,
+      "maxCount": 4,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:deep_warm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_lukewarm_ocean"
+      ]
+    }
+  ],
+  "risingtides:piranha": [
+    {
+      "weight": 10,
+      "minCount": 2,
+      "maxCount": 2,
+      "biomes": [
+        "minecraft:river"
+      ]
+    }
+  ],
+  "risingtides:seahorse": [
+    {
+      "weight": 16,
+      "minCount": 7,
+      "maxCount": 8,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:deep_warm_ocean",
+        "minecraft:lukewarm_ocean"
+      ]
+    }
+  ],
+  "risingtides:lionfish": [
+    {
+      "weight": 13,
+      "minCount": 2,
+      "maxCount": 3,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:deep_warm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_lukewarm_ocean"
+      ]
+    }
+  ],
+  "risingtides:whale": [
+    {
+      "weight": 1,
+      "minCount": 1,
+      "maxCount": 1,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean"
+      ]
+    }
+  ],
+  "risingtides:mantaray": [
+    {
+      "weight": 11,
+      "minCount": 2,
+      "maxCount": 3,
+      "biomes": [
+        "minecraft:ocean",
+        "minecraft:deep_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:deep_warm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_lukewarm_ocean"
+      ]
+    }
+  ],
+  "risingtides:crab": [
+    {
+      "weight": 50,
+      "minCount": 5,
+      "maxCount": 8,
+      "biomes": [
+        "minecraft:river",
+        "minecraft:beach",
+        "minecraft:desert_lakes",
+        "minecraft:swamp_hills"
+      ]
+    }
+  ]
+}

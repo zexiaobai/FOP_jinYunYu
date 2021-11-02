@@ -1,0 +1,31 @@
+{
+  "config": {
+    "incomingDamageMultiplier": 1.5,
+    "dealtDamageMultiplier": 2.0,
+    "riptideCooldown": 10
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/underwater_ruin_big",
+        "minecraft:chests/underwater_ruin_small",
+        "minecraft:chests/shipwreck_treasure"
+      ],
+      "chance": 0.1
+    },
+    {
+      "table": [
+        "minecraft:entities/drowned"
+      ],
+      "chance": 0.01
+    }
+  ]
+}

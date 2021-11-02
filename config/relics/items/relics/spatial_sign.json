@@ -1,0 +1,25 @@
+{
+  "config": {
+    "timeBeforeActivation": 30,
+    "experiencePerSecond": 1
+  },
+  "durability": {
+    "maxDurability": 1
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/stronghold_corridor",
+        "minecraft:chests/stronghold_crossing",
+        "minecraft:chests/stronghold_library",
+        "minecraft:chests/abandoned_mineshaft"
+      ],
+      "chance": 0.1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "config": {
+    "lootingChance": 0.25,
+    "fortuneChance": 0.25,
+    "additionalLooting": 3,
+    "additionalFortune": 3
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/village/village_butcher"
+      ],
+      "chance": 0.2
+    },
+    {
+      "table": [
+        "minecraft:entities/horse"
+      ],
+      "chance": 0.01
+    },
+    {
+      "table": [
+        "minecraft:entities/zombie_horse"
+      ],
+      "chance": 0.075
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "config": {
+    "flySpeed": 1.5,
+    "breathConsumptionRadius": 10,
+    "breathCapacity": 1000,
+    "breathConsumptionSpeed": 0.02,
+    "breathRegenerationCooldown": 2
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/end_city_treasure"
+      ],
+      "chance": 0.05
+    }
+  ]
+}

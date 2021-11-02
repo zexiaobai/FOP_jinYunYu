@@ -1,0 +1,27 @@
+{
+  "config": {
+    "chance": 0.15,
+    "damageMultiplier": 2.0,
+    "additionalSummonHeight": 20,
+    "minSummonHeight": 20,
+    "explosionRadius": 3,
+    "knockbackPower": 1.0,
+    "projectileSpeed": 0.9
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/end_city_treasure"
+      ],
+      "chance": 0.05
+    }
+  ]
+}

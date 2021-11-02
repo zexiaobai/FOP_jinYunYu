@@ -1,0 +1,22 @@
+{
+  "config": {
+    "additionalLooting": 1,
+    "petDamageMultiplier": 3.0
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/village/village_butcher"
+      ],
+      "chance": 0.2
+    }
+  ]
+}

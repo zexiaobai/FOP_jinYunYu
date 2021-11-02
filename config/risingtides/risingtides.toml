@@ -1,0 +1,164 @@
+
+#General Configurations
+[General]
+	#if set to true no modspecific mobs will attack, overrides the canAttack of every mob
+	AmbientMode = false
+
+#Shark Configurations
+[shark]
+	#requires Client and Server restart
+	#Range: 1 ~ 13
+	MaxSpawnedInChunk = 2
+	CanAttack = true
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	AttackDamage = 6.0
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 22.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 1.05
+
+#Penguin Configurations
+[penguin]
+	#requires Client and Server restart
+	#Range: 1 ~ 15
+	MaxSpawnedInChunk = 6
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 10.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 0.25
+
+#Crab Configurations
+[crab]
+	#requires Client and Server restart
+	#Range: 1 ~ 15
+	MaxSpawnedInChunk = 8
+	CanAttack = true
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	AttackDamage = 1.0
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 8.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 0.2
+
+	#the values are considered as weighted-random
+	[crab.ColorVariantWeights]
+		Color2Weight = 50
+		Color1Weight = 50
+		AlbinoWeight = 1
+
+	#the values are considered as weighted-random
+	[crab.ScalingWeights]
+		Scaling1Weight = 30
+		Scaling3Weight = 25
+		Scaling4Weight = 15
+		Scaling2Weight = 30
+
+#Mantaray Configurations
+[mantaray]
+	#requires Client and Server restart
+	#Range: 1 ~ 12
+	MaxSpawnedInChunk = 3
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 10.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 1.0
+
+#Snail Configurations
+[snail]
+	#requires Client and Server restart
+	#Range: 1 ~ 15
+	MaxSpawnedInChunk = 6
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 4.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 0.1
+
+#Lionfish Configurations
+[lionfish]
+	#requires Client and Server restart
+	#Range: 3 ~ 3
+	MaxSpawnedInChunk = 3
+	CanAttack = false
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	AttackDamage = 6.0
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 9.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 0.6
+
+#Walrus Configurations
+[walrus]
+	#requires Client and Server restart
+	#Range: 4.0 ~ 10.0
+	damage = 4.0
+	#requires Client and Server restart
+	#Range: 3 ~ 13
+	MaxSpawnedInChunk = 7
+	#requires Client and Server restart
+	#Range: 1.0 ~ 32767.0
+	Health = 20.0
+	#requires Client and Server restart | be careful, even small changes can have a high impact
+	#Range: 0.05 ~ 10.0
+	MovementSpeed = 1.15
+
+	#Jellyfish Configurations
+	[walrus.jellyfish]
+		#requires Client and Server restart
+		#Range: 1 ~ 10
+		MaxSpawnedInChunk = 6
+		#requires Client and Server restart
+		#Range: 1.0 ~ 32767.0
+		Health = 11.0
+
+	#Whale Configurations
+	[walrus.whale]
+		#requires Client and Server restart
+		#Range: 0 ~ 10
+		MaxSpawnedInChunk = 1
+		#requires Client and Server restart
+		#Range: 1.0 ~ 32767.0
+		Health = 50.0
+		#requires Client and Server restart | be careful, even small changes can have a high impact
+		#Range: 0.05 ~ 10.0
+		MovementSpeed = 1.2
+
+	#Piranha Configurations
+	[walrus.piranha]
+		#requires Client and Server restart
+		#Range: 1 ~ 11
+		MaxSpawnedInChunk = 2
+		CanAttack = true
+		#requires Client and Server restart
+		#Range: 1.0 ~ 32767.0
+		AttackDamage = 4.0
+		#requires Client and Server restart
+		#Range: 1.0 ~ 32767.0
+		Health = 15.0
+		#requires Client and Server restart | be careful, even small changes can have a high impact
+		#Range: 0.05 ~ 10.0
+		MovementSpeed = 0.9
+
+	#Seahorse Configurations
+	[walrus.seahorse]
+		#requires Client and Server restart
+		#Range: 1 ~ 14
+		MaxSpawnedInChunk = 10
+		#requires Client and Server restart
+		#Range: 1.0 ~ 32767.0
+		Health = 7.0
+

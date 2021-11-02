@@ -1,0 +1,24 @@
+{
+  "config": {
+    "useCooldown": 60,
+    "delayDuration": 10,
+    "damageMultiplier": 1.0,
+    "healMultiplier": 2.0
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/end_city_treasure"
+      ],
+      "chance": 0.05
+    }
+  ]
+}

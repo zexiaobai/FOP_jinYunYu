@@ -1,0 +1,38 @@
+{
+  "config": {
+    "locateRadius": 5
+  },
+  "durability": {
+    "maxDurability": 100
+  },
+  "level": {
+    "maxLevel": 10,
+    "initialExp": 100,
+    "expRatio": 250
+  },
+  "loot": [
+    {
+      "table": [
+        "minecraft:chests/nether_bridge",
+        "minecraft:chests/bastion_bridge",
+        "minecraft:chests/bastion_other",
+        "minecraft:chests/bastion_treasure",
+        "minecraft:chests/bastion_hoglin_stable",
+        "minecraft:chests/ruined_portal"
+      ],
+      "chance": 0.1
+    },
+    {
+      "table": [
+        "minecraft:entities/piglin"
+      ],
+      "chance": 0.01
+    },
+    {
+      "table": [
+        "minecraft:entities/piglin_brute"
+      ],
+      "chance": 0.05
+    }
+  ]
+}
