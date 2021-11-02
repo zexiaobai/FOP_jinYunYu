@@ -1,0 +1,29 @@
+
+[General]
+	#Add Only Silver items to chest loot?
+	AddModLootToChests = true
+	#Can build silver golems?
+	BuildSilverGolem = true
+
+["Ore Generation"]
+	#Enable silver ore generation?
+	EnableSilverOre = true
+	#Silver ore vein size
+	#Range: > 0
+	SilverVeinSize = 5
+	#Silver ore vein count per chunk
+	#Range: > 0
+	SilverVeinCount = 8
+	#Silver ore minimum height
+	#Range: 1 ~ 255
+	SilverBottomHeight = 0
+	#Silver ore maximum height
+	#Range: 1 ~ 255
+	SilverMaxHeight = 42
+
+[Enchantments]
+	#Everlasting Enchantment enabled?
+	EnableSilverAura = true
+	#Enable Incantation enchantment?
+	EnableIncantation = true
+

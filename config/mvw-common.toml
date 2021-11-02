@@ -1,0 +1,6 @@
+
+#General Mod Configuration
+[general_mod_configuration]
+	#Enable -4 damage when using two handed weapons. [true / false]
+	enableTwoHanded = true
+

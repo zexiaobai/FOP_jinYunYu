@@ -1,0 +1,12 @@
+
+#General settings
+[general]
+	#Spawn a special encyclopedia to collect cards when right click mobs, required mcmobs collection enabled
+	spawnMcMobsEncyclopedia = true
+	#List of card collection id blacklist, ignore when whitelist is not empty
+	collectionBlacklist = []
+	#List of card collection id whitelist, leave empty to load all datapacks
+	collectionWhitelist = []
+	#Allow shift-right click to convert gacha to collection book
+	gachaToBook = true
+

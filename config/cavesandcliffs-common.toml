@@ -1,0 +1,52 @@
+
+["Gameplay Settings"]
+	dropRawOres = true
+	monstersSpawnOnlyInTotalDarkness = true
+
+["Ore Generation Settings"]
+	generateCopperOre = true
+	generateTuffBlobs = true
+	generateDeepslateBlobs = true
+
+["World Generation Settings"]
+
+	["World Generation Settings"."Amethyst Geode Settings"]
+		generateAmethystGeodes = true
+		#Range: > 1
+		amethystGeodeChance = 53
+
+	["World Generation Settings"."Glow Lichen Settings"]
+		generateGlowLichen = true
+
+	["World Generation Settings"."Cave Biome Settings"]
+		generateLushCaves = true
+		generateDripstoneCaves = true
+
+["Entity Settings"]
+
+	["Entity Settings"."Glow Squid Settings"]
+		generateGlowSquids = true
+		#Range: 0 ~ 100
+		glowSquidWeight = 10
+
+	["Entity Settings"."Axolotl Settings"]
+		generateAxolotls = true
+		#Range: 0 ~ 100
+		axolotlWeight = 10
+
+	["Entity Settings"."Goat Settings"]
+		generateGoats = true
+		#Range: 0 ~ 100
+		goatWeight = 10
+
+["Experimental Settings"]
+	#Range: 0 ~ 256
+	deepslateLayerMaxHeight = 0
+
+["World Type Settings"]
+	generateNoiseCaves = true
+	generateAquifers = true
+	generateDeepslate = true
+	generateNoodleCaves = true
+	generateOreVeins = true
+
