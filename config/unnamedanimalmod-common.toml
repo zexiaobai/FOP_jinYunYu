@@ -1,0 +1,45 @@
+
+["Animal Spawn Weight"]
+	#Spawn weight of Humphead Parrotfish
+	#Range: 1 ~ 1000
+	humphead_parrotfish_spawn_weight = 3
+	#Spawn weight of Marine Iguanas
+	#Range: 1 ~ 1000
+	marine_iguana_spawn_weight = 15
+	#Spawn weight of Elephantnose Fish
+	#Range: 1 ~ 1000
+	elephantnose_fish_spawn_weight = 1
+	#Spawn weight of Greater Prairie Chickens
+	#Range: 1 ~ 1000
+	greater_prairie_chicken_spawn_weight = 15
+	#Spawn weight of Black Diamond Stingrays
+	#Range: 1 ~ 1000
+	black_diamond_stingray_spawn_weight = 1
+	#Spawn weight of Banana Slugs
+	#Range: 1 ~ 1000
+	banana_slug_spawn_weight = 45
+	#Spawn weight of Spotted Garden Eels
+	#Range: 1 ~ 1000
+	spotted_garden_eel_spawn_weight = 3
+	#Spawn weight of Flashlight Fish
+	#Range: 1 ~ 1000
+	flashlight_fish_spawn_weight = 4
+	#Spawn weight of Tomato Frogs
+	#Range: 1 ~ 1000
+	tomato_frog_spawn_weight = 3
+	#Spawn weight of Platypuses
+	#Range: 1 ~ 1000
+	platypus_spawn_weight = 5
+	#Spawn weight of Musk Ox
+	#Range: 1 ~ 1000
+	musk_ox_spawn_weight = 1
+	#Spawn weight of Leafy Seadragons
+	#Range: 1 ~ 1000
+	leafy_seadragon_spawn_weight = 3
+	#Spawn weight of Pacman Frogs
+	#Range: 1 ~ 1000
+	pacman_spawn_weight = 3
+	#Spawn weight of Southern Right Whales
+	#Range: 1 ~ 1000
+	southern_right_whale_spawn_weight = 1
+

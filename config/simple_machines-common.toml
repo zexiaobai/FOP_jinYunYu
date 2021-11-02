@@ -1,0 +1,12 @@
+
+[general]
+	#Multiplier for fuel duration in mythril furnaces
+	#Range: 1.0 ~ 99.9
+	mythrilFurnaceFuelMultiplier = 2.0
+	#Number of additional items yielded by onyx furnaces
+	#Range: 0 ~ 64
+	onyxFurnaceYieldAmount = 1
+	#Per cent (%) chance that onyx furnaces will yield extra output
+	#Range: 0 ~ 100
+	onyxFurnaceYieldChance = 33
+
